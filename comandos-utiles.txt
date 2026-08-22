@@ -1,0 +1,17 @@
+# APUNTES DE COMANDOS LINUX - EL RINCÓN DE LAS ESQUINAS
+
+1. Navegación y Archivos:
+   - pwd : Muestra la ruta de la carpeta actual donde estás.
+   - ls -la : Muestra todos los archivos (incluyendo ocultos) con detalles.
+   - cd [carpeta] : Entra a una carpeta específica.
+   - mkdir [nombre] : Crea una nueva carpeta.
+
+2. Gestión de Texto y Sistema:
+   - cat [archivo] : Muestra el contenido completo de un archivo de texto.
+   - top o htop : Muestra los procesos activos y el uso de memoria del sistema.
+   - clear : Limpia la pantalla de la terminal.
+
+3. Redes y Seguridad básica:
+   - ifconfig o ip a : Muestra las direcciones IP y las interfaces de red.
+   - ping [sitio] : Comprueba la conexión de red hacia un servidor o página web.
+
